@@ -33,7 +33,7 @@
             <input type="submit" value="Enviar">
         </form>
         <hr>
-        <form name="formulario_dividir" action="Dvision.php" method="POST">
+        <form name="formulario_dividir" action="Division.php" method="POST">
             <h2>Dividir</h2>
             <label>Numero 1</label>
             <input type="number" name="num1">

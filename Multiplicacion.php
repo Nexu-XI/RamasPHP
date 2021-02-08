@@ -1,5 +1,5 @@
 <?php
     echo "La mulptiplicacion de ",$_POST['num1']," y ",$_POST['num2']," es: ",($_POST['num1']*$_POST['num2']);
-    echo '<a href="index.php">Volver</a>';
+    echo '<br><a href="index.php">Volver</a>';
 ?>
 
